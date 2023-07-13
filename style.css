@@ -1,0 +1,142 @@
+
+/*body{
+    background: rgb(51, 51, 224);
+    color: rgb(158, 68, 68);
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 200px;
+
+}*/
+
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main{
+    margin-top: 50px;
+    /*text-align: center;*/
+    
+    
+}
+
+.googlefoto{
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+.inputexto{
+    display: block;
+    border: 1px solid #dfe1e5;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: auto;
+    width: 400px;
+    height: 24px;
+    margin-top: 30px;
+   }
+
+.red{
+    background: red;
+    height: 100px;
+    }
+.blue{
+    background-color: blue;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.green{
+    background-color: green;
+    height: 100px;
+}
+
+.per{
+    display: block;
+    width: 150px;
+}
+
+.per2{
+    width: 150px;
+}
+
+.teste{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loren{
+    color: #222222;
+    background: lightgrey;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid blue;
+    border-radius: 20px;
+    padding: 50px;
+    
+}
+
+.btn{
+    
+    background-color: #dfe1e5;
+    border: 1px solid #dfe1e5;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+    user-select: none;   
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    
+    background-color: rgb(141, 200, 248);
+    border: 1px dotted blue;
+    border-bottom: 10px solid rgb(94, 94, 139);
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    justify-content: center;
+}
+
+.coluna2{
+    text-align: left;
+    border: 1px dotted blue;
+}
+
+.border1{
+    border: 1px dotted blue;  
+    padding: 10px;
+       
+}
+
+.bandeira{
+    margin: 45px auto;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    
+}
